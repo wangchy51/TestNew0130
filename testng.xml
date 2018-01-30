@@ -3,7 +3,7 @@
 <suite name="default">
 	<test name="default">
 		<classes>
-			<class name="com.NewTestServlet.TestClient"></class>
+			<class name="com.NewTestServlet.TestClient.TestClient"></class>
 		</classes>
 	</test>
 </suite>
